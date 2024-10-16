@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shinta/Projects/secondProject/secondProject/secondProject.csproj",
+      "projectUniqueName": "/Users/shinta/Projects/gitbuh/secondProject/secondProject/secondProject.csproj",
       "projectName": "secondProject",
-      "projectPath": "/Users/shinta/Projects/secondProject/secondProject/secondProject.csproj",
+      "projectPath": "/Users/shinta/Projects/gitbuh/secondProject/secondProject/secondProject.csproj",
       "packagesPath": "/Users/shinta/.nuget/packages/",
-      "outputPath": "/Users/shinta/Projects/secondProject/secondProject/obj/",
+      "outputPath": "/Users/shinta/Projects/gitbuh/secondProject/secondProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shinta/.nuget/NuGet/NuGet.Config"
